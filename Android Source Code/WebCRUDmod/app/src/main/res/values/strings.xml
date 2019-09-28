@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pengelola Data Karyawan</string>
+    <string name="daftar_pgw">Daftar Karyawan</string>
+    <string name="tambah_pgw">Tambah Karyawan</string>
+    <string name="edit_pgw">Edit Karyawan</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_exit">Tutup Aplikasi</string>
+</resources>
